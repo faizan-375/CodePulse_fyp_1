@@ -1,0 +1,15 @@
+links of datsets to train my model 
+
+https://zenodo.org/records/3666840
+
+https://drive.google.com/file/d/15aXc_el-nx4tQwU3khunQ-I5ObSA1-Zb/view
+
+https://zenodo.org/records/6555241
+
+https://github.com/liuhuigmail/DeepSmellDetection
+
+https://github.com/milica-skipina/ML-code-smell-detection
+
+https://zenodo.org/records/14834187
+
+https://doi.org/10.6084/m9.figshare.28519385.v1
